@@ -49,7 +49,7 @@ body {
         <div class="bg-white shadow rounded overflow-hidden">
             <div class="px-4 pt-0 pb-4 cover">
                 <div class="media align-items-end profile-head">
-                    <div class="profile mr-3"><img src="images/photo-profile.avif" alt="..." width="150" class="rounded mb-2 img-thumbnail">
+                    <div class="profile mr-3"><img src="images/me.jpg" alt="..." width="150" class="rounded mb-2 img-thumbnail">
 
                     	<a href="?logout" class="btn btn-outline-dark btn-sm btn-block">Sign Out</a>
 
@@ -80,11 +80,11 @@ body {
             </div>
 
             <div class="px-4 py-3">
-                <h5 class="mb-0">Expertise </h5>
+                <h5 class="mb-0">Who Am I? </h5>
                 <div class="p-4 rounded shadow-sm bg-light">
-                    <p class="font-italic mb-0">Full-stack Web Developer</p>
-                    <p class="font-italic mb-0">Mobile App Developer</p>
-                    <p class="font-italic mb-0">Photographer/Videographer</p>
+                    <p class="font-italic mb-0">A 2nd year IT student</p>
+                    <p class="font-italic mb-0">Volleyball player</p>
+                    <p class="font-italic mb-0">A one-call-away friend</p>
                 </div>
             </div>
 
@@ -94,10 +94,10 @@ body {
                 </div>
                 <div class="row">
                     
-                    <div class="col-lg-6 mb-2 pr-lg-1"><img src="images/photo-1.avif" alt="" class="img-fluid rounded shadow-sm"></div>              
-                    <div class="col-lg-6 mb-2 pl-lg-1"><img src="images/photo-2.avif" alt="" class="img-fluid rounded shadow-sm"></div>                
-                    <div class="col-lg-6 pr-lg-1 mb-2"><img src="images/photo-3.avif" alt="" class="img-fluid rounded shadow-sm"></div>
-                    <div class="col-lg-6 pl-lg-1"><img src="images/photo-4.avif" alt="" class="img-fluid rounded shadow-sm"></div>
+                    <div class="col-lg-6 mb-2 pr-lg-1"><img src="images/nami1.jpeg" alt="" class="img-fluid rounded shadow-sm"></div>              
+                    <div class="col-lg-6 mb-2 pl-lg-1"><img src="images/namie2.jpeg" alt="" class="img-fluid rounded shadow-sm"></div>                
+                    <div class="col-lg-6 pr-lg-1 mb-2"><img src="images/nami3.jpeg" alt="" class="img-fluid rounded shadow-sm"></div>
+                    <div class="col-lg-6 pl-lg-1"><img src="images/nami4.jpeg" alt="" class="img-fluid rounded shadow-sm"></div>
                 </div> 
             </div>
 
